@@ -1,0 +1,44 @@
+_repo: Snap-DragonsOld-Father-Christmas_43763
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J. H. (Juliana Horatia)
+    - Ewing, J.H.
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_issued: '2013-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Quarreling -- Juvenile fiction'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Snap-Dragons; Old Father Christmas
+url: http://www.gutenberg.org/ebooks/43763
